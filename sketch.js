@@ -27,7 +27,7 @@ function setup() {
 	  options: {
 	    width: 1200,
 	    height: 700,
-	    wireframes: false
+	    wireframes: true
 	  }
 	});
 
